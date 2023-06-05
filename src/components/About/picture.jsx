@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import pic from './images/pic.png';
+import pic from './images/pic.jpg';
 function picture() {
   return (
     <div>
